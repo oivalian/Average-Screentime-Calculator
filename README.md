@@ -1,5 +1,9 @@
 # Screentime Calculator
 
+I despise how much social media consumes us. This helps you keep track of how much precious time we waste wired to our screens.
+
+## How it works
+
 Input the amount of days you wish to calculate
 
 ```Days to calculate > 7```
